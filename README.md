@@ -9,6 +9,7 @@ Hello guys, do you searching for making a awesome electronics project circuit ? 
 
 Following these method, you can make clap or sound activated switch & air flow switch. 
 
+
 To make this awesome electronics project, you might need some electronics components.
 Let’s introduce with those electronics components.
 
@@ -22,6 +23,7 @@ Component list :
 6. Push Switch
 7. LED – 4v
 8. Battery – 3.7v
+
 
 Mosfet & Transistor Pinout : 
 
